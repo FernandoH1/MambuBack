@@ -1,0 +1,5 @@
+package com.mambu.back.enums;
+
+public enum State {
+    PENDING_APPROVAL, INACTIVE, ACTIVE, EXITED, BLACKLISTED, REJECTED, PENDING, SEIZED, REMOVED, PARTIALLY_SEIZED
+}
